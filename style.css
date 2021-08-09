@@ -1,0 +1,39 @@
+body{
+    background-color: #9F9F9F;
+}
+.first{
+    background-color: blue;
+    height: 120px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#img-icon{
+    margin-left: 20px;
+}
+
+.nav-img img{
+    width: 43px;
+    vertical-align: middle;
+
+}
+.text-color{
+    color:navy;
+    font-weight: 700; 
+}
+.player-name{
+    text-align: center;
+}
+#blog-writer{
+    color: navy;
+    font-weight: 400;
+}
+#star-icon{
+    color: orange;
+    
+}
+#clock{
+    margin: 7px;
+    text-align: center;
+    justify-content: center;
+}
